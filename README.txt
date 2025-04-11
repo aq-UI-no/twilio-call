@@ -90,7 +90,6 @@
 /*
  * Contact:
  * For any issues or questions, please contact:
- * - Akshat Shrivastava
- * - Email: aksmelittle@gmail.com
- * - @aksmelittle
+ * - Tiffany Aquino
+ * - Email: tiffanyaquino116@gmail.com
  */
